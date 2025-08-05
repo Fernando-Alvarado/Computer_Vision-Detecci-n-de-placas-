@@ -1,3 +1,14 @@
+yolo11n-seg.pt 
+yolo11n.pt
+
+
+#Imagenes
+*.jpg
+*.txt
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
