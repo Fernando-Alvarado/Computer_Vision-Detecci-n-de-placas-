@@ -10,6 +10,7 @@ yolo11n.pt
 # EXCEPCIONES: incluir estas dos imágenes
 !Imagenes/carro.jpg
 !Imagenes/carroF1.jpg
+!TraineModels/YOLO10S.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
