@@ -61,6 +61,7 @@ Instalar los siguientes modelos (ver documentación en: <https://docs.ultralytic
 
 - `yolov10s.pt`
 - `yolo11s.pt`
+- `YOLO11N.pt`
 
 
 
