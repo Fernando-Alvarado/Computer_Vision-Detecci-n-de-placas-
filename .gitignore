@@ -11,6 +11,9 @@ yolo11n.pt
 !Imagenes/carro.jpg
 !Imagenes/carroF1.jpg
 !TraineModels/YOLO10S.pt
+!Imagenes/Readme/con_placa.jpg
+!Imagenes/Readme/con_placa2.jpg
+!Imagenes/Readme/sin_placa.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
