@@ -1,4 +1,4 @@
-# Detección de placas de automóviles en imágenes.
+# Detección de placas vehiculares en imágenes.
 ---
 
 ### 📖 Descripción
